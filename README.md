@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <em>Mathematician · Machine-learning engineer · Quietly curious about the universe</em>
+  <em>Mathematician · Data scientist · Machine-learning engineer · Quietly curious about the universe</em>
 </p>
 
 <p align="center">
@@ -29,6 +29,11 @@ between **machine-learning systems** that have to behave in the real world — g
 diagnostics, energy-grid siting tools — and a slower, deeper reading life in
 **pure and applied mathematics**: the parts of the subject that feel less like tools
 and more like terrain.
+
+Underneath all of it is a deep love of **data science** — the craft of turning messy,
+real-world data into calibrated insight. I care about the whole arc: exploratory
+analysis, principled feature engineering, statistical inference, honest experiment
+design, and visualisations that tell the truth rather than flatter it.
 
 I care about systems that are **rigorous on the inside and useful on the outside**:
 calibrated, observable, honest about their uncertainty, and patient enough to be
@@ -65,6 +70,14 @@ re-derived from first principles if anyone asks.
 ### 🧭 Where my curiosity lives
 
 ```text
+data science                       ── exploratory analysis, feature engineering,
+                                       statistical inference, experiment design,
+                                       and visualisation that tells the truth
+
+machine learning                   ── calibrated probabilistic models, drift-aware
+                                       systems, ensembling, graph and sequence models,
+                                       foundation-model embeddings as features
+
 quantum computing                  ── circuit synthesis, variational algorithms,
                                        error correction, the quietly stubborn
                                        puzzle of measurement
@@ -75,10 +88,6 @@ mathematical physics               ── gauge theory, the geometry of phase sp
 computational mathematics          ── numerical PDEs, randomised linear algebra,
                                        making infinite-dimensional problems sit
                                        still long enough to be solved
-
-machine learning                   ── calibrated probabilistic models, drift-aware
-                                       systems, ensembling, graph and sequence models,
-                                       foundation-model embeddings as features
 ```
 
 …sitting on a foundation of advanced mathematics I keep returning to:
@@ -92,7 +101,9 @@ machine learning                   ── calibrated probabilistic models, drift
 |     **Number theory** | analytic & algebraic NT · L-functions · the arithmetic side of cryptography |
 |         **SPDEs** | stochastic heat / KPZ · regularity structures · numerical schemes for noise |
 
-I am not claiming expertise in any of these — I am claiming **affection**.
+<p align="center">
+  <em>"Somewhere, something incredible is waiting to be known." — Carl Sagan</em>
+</p>
 
 ---
 
@@ -110,9 +121,16 @@ I am not claiming expertise in any of these — I am claiming **affection**.
   <img alt="Jupyter"    src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=flat-square">
 </p>
 <p>
+  <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white&style=flat-square">
+  <img alt="seaborn"    src="https://img.shields.io/badge/seaborn-4C72B0?style=flat-square">
+  <img alt="Plotly"     src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white&style=flat-square">
+  <img alt="DuckDB"     src="https://img.shields.io/badge/DuckDB-FFF000?logo=duckdb&logoColor=black&style=flat-square">
+  <img alt="SQL"        src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=flat-square">
   <img alt="LightGBM"   src="https://img.shields.io/badge/LightGBM-018786?style=flat-square">
   <img alt="XGBoost"    src="https://img.shields.io/badge/XGBoost-006400?style=flat-square">
   <img alt="CatBoost"   src="https://img.shields.io/badge/CatBoost-FFCC00?logoColor=black&style=flat-square">
+</p>
+<p>
   <img alt="Hugging Face" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=flat-square">
   <img alt="Qiskit"     src="https://img.shields.io/badge/Qiskit-6929C4?logo=qiskit&logoColor=white&style=flat-square">
   <img alt="PennyLane"  src="https://img.shields.io/badge/PennyLane-2E2E2E?style=flat-square">
@@ -144,21 +162,34 @@ Threads I'm actively working through — a snapshot, not a static reading list:
 - **Quantum** — Nielsen & Chuang for the canon; Qiskit / PennyLane tutorials for variational circuits
 - **Statistics** — van der Vaart on **empirical processes**; conformal-prediction literature for production calibration
 
+<p align="center">
+  <sub><em>"Imagination is more important than knowledge." — Albert Einstein</em></sub>
+</p>
+
 ---
 
 ### 📊 GitHub at a glance
 
+<!--
+  These cards are rendered by the community-run services github-readme-stats and
+  streak-stats. The shared public instances are occasionally rate-limited by the
+  GitHub API and can show a "Maximum retries exceeded" error card.
+  If that happens, deploy your own free github-readme-stats instance
+  (https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance)
+  and replace "github-readme-stats.vercel.app" below with your instance URL.
+-->
+
 <p align="center">
   <a href="https://github.com/monzia-moodie">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=monzia-moodie&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&title_color=a78bfa&icon_color=a78bfa&text_color=cbd5e1&bg_color=0f172a" alt="GitHub stats">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=monzia-moodie&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&title_color=a78bfa&icon_color=a78bfa&text_color=cbd5e1&bg_color=0f172a&cache_seconds=86400" alt="Monzia's GitHub stats">
   </a>
   <a href="https://github.com/monzia-moodie">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monzia-moodie&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&title_color=a78bfa&text_color=cbd5e1&bg_color=0f172a" alt="Top languages">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monzia-moodie&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&title_color=a78bfa&text_color=cbd5e1&bg_color=0f172a&cache_seconds=86400" alt="Top languages">
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/monzia-moodie">
-    <img src="https://streak-stats.demolab.com?user=monzia-moodie&theme=tokyonight&hide_border=true&background=0f172a&stroke=a78bfa&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa" alt="GitHub streak" height="170">
+    <img height="170" src="https://streak-stats.demolab.com?user=monzia-moodie&theme=tokyonight&hide_border=true&background=0F172A&stroke=a78bfa&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa" alt="GitHub streak">
   </a>
 </p>
 
@@ -166,10 +197,11 @@ Threads I'm actively working through — a snapshot, not a static reading list:
 
 ### 🤝 Let's talk
 
-I'm happy to hear from collaborators working on **calibrated ML in high-stakes
-settings**, **scientific computing**, **quantum-classical hybrid algorithms**,
-or anything where a careful mathematical idea is about to meet a real-world
-deadline. Open an [issue on any of my repositories](https://github.com/monzia-moodie?tab=repositories)
+I'm happy to hear from collaborators working on **data science and statistical
+modelling**, **calibrated ML in high-stakes settings**, **scientific computing**,
+**quantum-classical hybrid algorithms**, or anything where a careful mathematical
+idea is about to meet a real-world deadline. Open an
+[issue on any of my repositories](https://github.com/monzia-moodie?tab=repositories)
 or reach out through GitHub.
 
-<sub>Profile last refreshed May 2026.</sub>
+<sub>Profile last refreshed June 2026.</sub>
