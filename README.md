@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <em>Mathematician · Data scientist · Machine-learning engineer · Quietly curious about the universe</em>
+  <em>Researcher · Data Scientist · Machine-Learning Engineer · Quietly curious about the universe</em>
 </p>
 
 <p align="center">
